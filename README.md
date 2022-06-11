@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there :dog:
+
+My profile 
+- a software engineer working on a consulting firm.
+- familiar with AWS and Python.
+- currently learning machine learning.
 
 <!--
 **masawai/masawai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
