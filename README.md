@@ -3,7 +3,7 @@
 My profile 
 - a software engineer working on a consulting firm.
 - familiar with AWS and Python.
-- currently learning machine learning.
+- currently learning DevOps.
 
 <!--
 **masawai/masawai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
